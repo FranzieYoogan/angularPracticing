@@ -88,4 +88,48 @@ text-align: center;
         font-size: 13px;
 
     }
+
+    .containerAll {
+
+        display: block;
+
+    }
+  }
+
+
+
+  @media only screen and (width: 571px) {
+    h5 {
+      font-size: 15px;
+    }
+
+    p {
+
+        font-size: 10px;
+
+    }
+
+    .title1Style {
+
+        font-size: 25px;
+
+    }
+
+    .title2Style {
+
+        font-size: 20px;
+
+    }
+
+    .pStyle {
+
+        font-size: 13px;
+
+    }
+
+    .containerAll {
+
+        display: grid;
+
+    }
   }
